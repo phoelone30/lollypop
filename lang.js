@@ -8,7 +8,7 @@ const mm = {
   secureDesc: "WavePay, KBZPay စသည်တို့ဖြင့် အသုံးပြုနိုင်ပါသည်။",
   supportTitle: "💬 ၂၄ နာရီဝန်ဆောင်မှု ",
   supportDesc: "PUBG ကစားသူများအတွက် ၂၄ နာရီ ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။",
-  contact: "📞 ၀၉-၄၀၇၇၆၅၈၂၀ | ✉️ support@uc-topup.com",
+  contact: "📞 ၀၉-၄၀၇၇၆၅၈၂၀",
   gmail: "✉️ khatbdee@gmail.com",
   follow: "လိုက်နာရန်: 📸 ဖေ့စ်ဘုတ် | ✈️ တယ်လီဂရမ်",
 };
